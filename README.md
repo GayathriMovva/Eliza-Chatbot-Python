@@ -15,3 +15,8 @@ Some of the main features are as follows:
 3. Identifies the context of the conversation and responds appropriately
 4. Greet the users at the end of the conversation
 
+
+### Install latest version of Python and install the NLTK packages before running the program
+ 
+
+
